@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    gap: 10px;
+}
+
+#students {
+    margin-top: 20px;
+}
+
+.student-box {
+    padding: 10px;
+    border: 1px solid #333;
+    margin-bottom: 10px;
+}
